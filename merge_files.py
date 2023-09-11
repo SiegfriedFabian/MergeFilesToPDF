@@ -96,7 +96,7 @@ def merge_files(folder_path, output_name):
             os.remove(img_pdf_path)
     
     # Output the merged PDF
-    output_pdf_path = os.path.join(folder_path, f"{output_name}.pdf")
+    output_pdf_path = os.path.join('', f"{output_name}.pdf")
     with open(output_pdf_path, 'wb') as f:
         merger.write(f)
     
