@@ -32,7 +32,7 @@ python merge_files.py path/to/files/folder NAME
 ```
 
 - `path/to/files/folder`: Replace this with the path to the folder containing the PDF and/or image files you want to merge.
-- `NAME`: Replace this with the name you want for the output PDF file. The output file will be saved as `NAME.pdf` in the same directory as the script.
+- `NAME`: Replace this with the name you want for the output PDF file. The output file will be saved as `NAME.pdf` in the provided folder `path/to/files/folder`.
 
 ### Example
 
