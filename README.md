@@ -19,6 +19,7 @@ This Python script allows you to merge PDF files and images (JPEG, JPG, PNG) int
 
 ```bash
 pip install PyPDF2 Pillow reportlab
+```
 
 ## Usage
 
